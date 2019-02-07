@@ -1,2 +1,2 @@
 # practice
-Collection of practice coding problems from various sources
+Collection of practice coding problems from the subreddit www.reddit.com/r/dailyprogrammer.
